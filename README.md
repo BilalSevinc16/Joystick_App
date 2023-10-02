@@ -1,16 +1,11 @@
-# joystick_app
+# Joystick App
 
-A new Flutter project.
+Browse gallery with Joystick
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Joystick_App/assets/146417248/b8e62b1e-0fcb-4f29-b37a-1219cb9e0d7b)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Joystick_App/assets/146417248/551b15d1-bb1d-4e9f-8808-c711aae1d446)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Joystick_App/assets/146417248/1733eaff-7e92-4a90-ae9c-e7894beb8b7d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Joystick_App/assets/146417248/ac6b0e01-0101-44aa-90f4-20dbc4d05df4)
